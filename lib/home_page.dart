@@ -13,7 +13,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    final titleList = ['fullname', 'occupation', 'age', 'color'];
+    final titleList = ['Fullname', 'Occupation', 'Age', 'Color'];
 
     return Scaffold(
       appBar: AppBar(
@@ -112,7 +112,7 @@ class _TextWhite extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(
       title ?? '',
-      style: const TextStyle(color: Colors.white),
+      style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
     );
   }
 }

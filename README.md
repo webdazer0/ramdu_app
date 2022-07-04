@@ -1,6 +1,6 @@
-# ramdu_app
+# sample DataTable
 
-A new Flutter module project.
+![](screenshot.png)
 
 ## Getting Started
 
