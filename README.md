@@ -1,7 +1,7 @@
 # sample DataTable
 
 
-<p style="text-align:center">
+<p align="center">
 <img src="screenshot.png" alt="drawing" width="300"/>
 </p>
 
