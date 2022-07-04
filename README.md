@@ -1,6 +1,9 @@
 # sample DataTable
 
-![](screenshot.png)
+
+<p style="text-align:center">
+<img src="screenshot.png" alt="drawing" width="300"/>
+</p>
 
 ## Getting Started
 
